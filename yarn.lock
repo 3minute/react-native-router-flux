@@ -4482,9 +4482,9 @@ react-native@0.50.1:
     xmldoc "^0.4.0"
     yargs "^9.0.0"
 
-react-navigation@1.5.8:
+"react-navigation@github:3minute/react-navigation#1.5.8_fix":
   version "1.5.8"
-  resolved "https://registry.yarnpkg.com/react-navigation/-/react-navigation-1.5.8.tgz#f04bec1a39af8cfcf651337d351e8d0a144f1b6d"
+  resolved "https://codeload.github.com/3minute/react-navigation/tar.gz/b310ede3444a8b3fa92d3da6986221be11192c05"
   dependencies:
     clamp "^1.0.1"
     hoist-non-react-statics "^2.2.0"
